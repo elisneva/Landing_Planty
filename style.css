@@ -1,0 +1,9 @@
+@import 'style/fonts.css';
+@import 'normalize.css';
+@import 'style/basic.css';
+@import 'style/header.css';
+@import 'style/hero.css';
+@import 'style/slider.css';
+@import 'swiper/css';
+@import 'style/review.css';
+@import 'style/footer.css';

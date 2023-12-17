@@ -1,0 +1,92 @@
+.container__hero{
+    padding: 0 0 0 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.hero__info{
+    padding-top: 82px;
+}
+h1{
+    font-family: 'Belleza';
+    font-size: 96px;
+    font-weight: 400;
+    padding-bottom: 62px;
+    line-height: normal;
+letter-spacing: -0.5px;
+}
+
+.hero__info_block{
+    padding: 60px 0 41px 0;
+    color: #000;
+font-family: 'Aeonik';
+font-size: 24px;
+font-weight: 500;
+line-height: normal;
+width: 299px;
+}
+
+.hero__label{
+    padding: 65px 0px 142px 0px;
+    display: flex;
+    gap: 90px;
+}
+
+.hero__text{
+    color: #000;
+font-family: 'Aeonik';
+font-size: 24px;
+font-style: normal;
+font-weight: 250;
+line-height: normal;
+max-width: 512px;
+margin-right: 70px;
+}
+.hero__img_img{
+    height: auto;
+    width: 655px;
+}
+.hero__info_text{
+    color: #000;
+font-family: 'Lora-Medium';
+font-size: 36px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+max-width: 626px;
+padding: 83px 0px 66px 0px;
+margin: 0;
+}
+.button__form label{
+    color: #000;
+font-family: Aeonik;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-transform: uppercase;
+}
+.button__form label:hover{
+    text-decoration: underline;
+}
+
+.btn__learn{
+    width: 30px;
+    height: 30px;
+    background-color: #000;
+    color: white;
+    border-radius: 50%;
+    padding: 0px 5px;
+    margin-left: 34px;
+    transition: transform 0.5s ease-in-out;
+}
+
+.btn__learn:hover{
+    cursor:pointer;
+    transform: translateX(50px);
+}
+
+.btn__learn:active{
+    transform: translateX(50px);
+}
+

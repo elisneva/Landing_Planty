@@ -1,0 +1,20 @@
+.footer__container{
+    display: flex;
+    justify-content: space-between;
+    padding: 60px;
+    align-items: center;
+}
+
+.footer__menu a{
+    padding-left: 60px;
+}
+
+.footer__menu a:hover{
+    color: #DDF247;
+    text-decoration: underline;
+}
+.social{
+    display: flex;
+    gap: 60px;
+
+}

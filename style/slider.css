@@ -1,0 +1,95 @@
+.slider{
+    margin-top: 156px;
+    padding: 0 50px;
+}
+
+.slider__container img{
+    max-width: 1340px;
+    height: auto;
+    margin: 0 auto;
+    align-items: center;
+    padding-bottom: 60px;
+}
+.img__container_1{
+    max-width: 1340px;
+    height: auto;
+}
+.img__container_2{
+    display: none;
+}
+.slider__info{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+h5{
+    color: #000;
+text-align: center;
+font-family: 'Lora-Medium';
+font-size: 36px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.buttons{
+    display: flex;
+    gap: 10px;
+}
+
+.circle__btn{
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    border: 2px solid #000;
+}
+
+.left{
+    padding-left: 17px;
+}
+
+.right{
+    padding-left: 18px;
+}
+.shop{
+    padding: 0 50px 164px 50px;
+}
+h3{
+    color: #000;
+font-family: 'Lora-medium';
+font-size: 48px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+padding-bottom: 37px;
+}
+
+.shop__slider{
+    display: flex;
+    gap: 44px;
+    padding-top: 52px;
+}
+
+.item__description{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 18px;
+}
+
+.item__description p{
+    color: #000;
+font-family: 'Aeonik';
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.price{
+    font-family: 'Lora-Bold';
+    font-weight: 700;
+    font-size: 20px;
+    color:rgb(2, 67, 2);
+}
+
